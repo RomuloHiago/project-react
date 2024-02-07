@@ -1,9 +1,9 @@
-<h1> Meu Front do meu Project React
+<h1> Meu Front do meu Project React</h1>
 <p>Tela 1</p>
-    <img src="..//.//project-react/src/Assets/Tela 1.png">
-</h1>
+    <img src="./public/Tela 1.png">
+
 
 <br>
 
-<p>Tela 1</p>
-    <img src="..//.//project-react/src/Assets/Tela 2.png">
+<p>Tela 2</p>
+    <img src="./public/Tela 2.png">
